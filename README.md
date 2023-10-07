@@ -1,5 +1,5 @@
 # Titanic Survival Prediction
-![](https://resources.cdn.seon.io/uploads/2021/02/Fraud_Detection_Prevention_02_03_cover.png)
+![](https://cdn-images-1.medium.com/max/750/1*IC1b2AnebaOYNK8PdZFwTQ.jpeg)
 
 ## Author: Md Mahfooz Alam Ansari
 ## Batch: September
